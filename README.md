@@ -1,6 +1,9 @@
 ##  Привет!👋   
 
 тут я немного расскажу о себе!
+
+
+Моё резюме лежит [тут](https://github.com/Posokhova-Ksenia/MY_CV)
 <!--
 **Posokhova-Ksenia/Posokhova-Ksenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
